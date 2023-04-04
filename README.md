@@ -10,6 +10,7 @@
 ## Blogs
 - https://blog.matteskridge.com/engineering/gpt4-and-software-architecture/2023/03/20/
 - https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
+- https://kadekillary.work/posts/1000x-eng/ - Nice example of shell integration with ChatGPT
 - https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes
 - https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 
@@ -23,6 +24,7 @@
 ## Products
 - [daydrm.ai](https://www.daydrm.ai) - AI tools for advertising strategy and creative ideas
 - [midjourney](https://www.midjourney.com/) - Stable diffusion on steroids
+- [promptbase](https://promptbase.com/chatgpt) - DALL·E, GPT, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace
 
 ## Reddit
 - [r/AItoolsCatalog](https://www.reddit.com/r/AItoolsCatalog/)
