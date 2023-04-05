@@ -24,7 +24,8 @@
 - https://laion.ai/blog/open-flamingo/
 
 ## Products
-- [daydrm.ai](https://www.daydrm.ai) - AI tools for advertising strategy and creative 
+- [daydrm.ai](https://www.daydrm.ai) - AI tools for advertising strategy and creative
+- [deepset.ai](https://www.deepset.ai/) - Implement semantic search, question answering or document similarity quickly and reliably with deepset Cloud.
 - [microsoft security copilot](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot)
 - [midjourney](https://www.midjourney.com/) - Stable diffusion on steroids
 - [promptbase](https://promptbase.com/chatgpt) - DALL·E, GPT, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace
@@ -39,9 +40,10 @@
 ## Repositories
 - https://github.com/orgs/openai/repositories
 - https://github.com/gd3kr/BlenderGPT
+- https://github.com/TaxyAI/browser-extension - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf.
+- https://github.com/emcf/engshell - An LLM-powered English-language shell for any OS
 - https://github.com/alexrudall/ruby-openai
-- https://github.com/TaxyAI/browser-extension
-- https://github.com/nomic-ai/gpt4all
+- https://github.com/nomic-ai/gpt4all - Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
 - https://github.com/octimot/StoryToolkitAI
 
 ## Resources
