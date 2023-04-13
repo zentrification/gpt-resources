@@ -49,6 +49,7 @@
 ## Resources
 - https://theresanaiforthat.com/
 - https://youprobablyneedarobot.com/
+- https://www.phind.com/ - The AI search engine for developers
 
 ## Tools
 - [careered.ai](https://www.careered.ai/) - AI cover letter generator
