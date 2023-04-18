@@ -15,6 +15,7 @@
 - https://kadekillary.work/posts/1000x-eng/ - Nice example of shell integration with ChatGPT
 - https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes
 - https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+- https://martinfowler.com/articles/2023-chatgpt-xu-hao.html - Example LLM prompting for programming
 
 ## ChatGPT
 - [Plugins](https://openai.com/blog/chatgpt-plugins)
@@ -54,6 +55,8 @@
 
 ## Tools
 - [careered.ai](https://www.careered.ai/) - AI cover letter generator
+- https://minigpt-4.github.io/ - Enhancing Vision-language Understanding with Advanced Large Language Models
+- https://gpt4all.io/ - Locally-running AI chat application powered by the GPT4All-J Apache 2 Licensed chatbot.
 
 ## YouTube
 - [GPT-4 Developer Livestream](https://www.youtube.com/watch?v=outcGtbnMuQ)
