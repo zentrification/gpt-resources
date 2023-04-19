@@ -46,9 +46,11 @@
 - https://github.com/muellerberndt/micro-gpt - A simple and effective autonomous agent compatible with GPT-3.5-Turbo and GPT-4.
 - https://github.com/alexrudall/ruby-openai
 - https://github.com/nomic-ai/gpt4all - Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
+- https://github.com/Stability-AI/StableLM
 - https://github.com/octimot/StoryToolkitAI
 
 ## Resources
+- https://incidentdatabase.ai/
 - https://theresanaiforthat.com/
 - https://youprobablyneedarobot.com/
 - https://www.phind.com/ - The AI search engine for developers
