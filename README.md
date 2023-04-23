@@ -22,6 +22,7 @@
 
 ## LLMs
 - https://huggingface.co/blog/trl-peft
+- https://python.langchain.com/en/latest/
 - https://laion.ai/blog/open-flamingo/
 
 ## Products
