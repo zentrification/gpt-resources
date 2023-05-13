@@ -26,8 +26,11 @@
 - https://laion.ai/blog/open-flamingo/
 
 # Products
+- [agentgpt](https://agentgpt.reworkd.ai) - agentGPT enables OpenAi to access the internet and conduct market research
 - [daydrm.ai](https://www.daydrm.ai) - AI tools for advertising strategy and creative
 - [deepset.ai](https://www.deepset.ai/) - Implement semantic search, question answering or document similarity quickly and reliably with deepset Cloud.
+- [d-id.com](https://www.d-id.com/) - AI people text to video
+- [elevenlabs.io](https://beta.elevenlabs.io/) - AI speech generator
 - [microsoft security copilot](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot)
 - [promptbase](https://promptbase.com/chatgpt) - DALL·E, GPT, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace
 
@@ -52,8 +55,10 @@
 - https://github.com/nomic-ai/gpt4all - Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
 - https://github.com/Stability-AI/StableLM
 - https://github.com/octimot/StoryToolkitAI
+- https://github.com/madox2/vim-ai
 
 # Resources
+- https://deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 - https://incidentdatabase.ai/
 - https://flowgpt.com/ - the best ChatGPT prompts
 - https://theresanaiforthat.com/
