@@ -49,6 +49,7 @@
 - https://github.com/orgs/openai/repositories
 - https://github.com/gd3kr/BlenderGPT
 - https://github.com/TaxyAI/browser-extension - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf.
+- https://github.com/cocktailpeanut/dalai - Run LLaMA and Alpaca on your computer.
 - https://github.com/emcf/engshell - An LLM-powered English-language shell for any OS
 - https://github.com/muellerberndt/micro-gpt - A simple and effective autonomous agent compatible with GPT-3.5-Turbo and GPT-4.
 - https://github.com/alexrudall/ruby-openai
