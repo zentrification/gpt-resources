@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 - [Blogs](#blogs)
 - [ChatGPT](#chatgpt)
 - [LLMs](#llms)
@@ -9,7 +9,7 @@
 - [Tools](#tools)
 - [YouTube](#youtube)
 
-## Blogs
+# Blogs
 - https://blog.matteskridge.com/engineering/gpt4-and-software-architecture/2023/03/20/
 - https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
 - https://kadekillary.work/posts/1000x-eng/ - Nice example of shell integration with ChatGPT
@@ -17,29 +17,32 @@
 - https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 - https://martinfowler.com/articles/2023-chatgpt-xu-hao.html - Example LLM prompting for programming
 
-## ChatGPT
+# ChatGPT
 - [Plugins](https://openai.com/blog/chatgpt-plugins)
 
-## LLMs
+# LLMs
 - https://huggingface.co/blog/trl-peft
 - https://python.langchain.com/en/latest/
 - https://laion.ai/blog/open-flamingo/
 
-## Products
+# Products
 - [daydrm.ai](https://www.daydrm.ai) - AI tools for advertising strategy and creative
 - [deepset.ai](https://www.deepset.ai/) - Implement semantic search, question answering or document similarity quickly and reliably with deepset Cloud.
 - [microsoft security copilot](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot)
-- [midjourney](https://www.midjourney.com/) - Stable diffusion on steroids
 - [promptbase](https://promptbase.com/chatgpt) - DALL·E, GPT, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace
 
-## Prompts
+## Midjourney
+- [midjourney](https://www.midjourney.com/) - Stable diffusion on steroids
+- https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c
+
+# Prompts
 
 - "I want you to act as an experienced XXX. I'm a novice and I want you to provide me a 30-day plan to learn the fundamentals of XXX. Include books, websites, videos, and exercises I should complete."
 
-## Reddit
+# Reddit
 - [r/AItoolsCatalog](https://www.reddit.com/r/AItoolsCatalog/)
 
-## Repositories
+# Repositories
 - https://github.com/orgs/openai/repositories
 - https://github.com/gd3kr/BlenderGPT
 - https://github.com/TaxyAI/browser-extension - Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf.
@@ -50,8 +53,9 @@
 - https://github.com/Stability-AI/StableLM
 - https://github.com/octimot/StoryToolkitAI
 
-## Resources
+# Resources
 - https://incidentdatabase.ai/
+- https://flowgpt.com/ - the best ChatGPT prompts
 - https://theresanaiforthat.com/
 - https://youprobablyneedarobot.com/
 - https://www.phind.com/ - The AI search engine for developers
