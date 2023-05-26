@@ -54,6 +54,7 @@
 - https://github.com/muellerberndt/micro-gpt - A simple and effective autonomous agent compatible with GPT-3.5-Turbo and GPT-4.
 - https://github.com/alexrudall/ruby-openai
 - https://github.com/nomic-ai/gpt4all - Demo, data and code to train an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa
+- https://github.com/smol-ai/developer - Prototype of a "junior developer" agent (aka smol dev) that scaffolds an entire codebase out for you
 - https://github.com/Stability-AI/StableLM
 - https://github.com/octimot/StoryToolkitAI
 - https://github.com/madox2/vim-ai
