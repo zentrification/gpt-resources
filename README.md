@@ -40,6 +40,8 @@
 
 ## Stable Diffusion
 - [Google Doc of many resources](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/edit)
+- https://stable-diffusion-art.com/models/
+- https://www.reddit.com/r/StableDiffusion/wiki/tutorials
 - [catbird.ai](https://www.catbird.ai/)
 - [civit.ai](https://civitai.com/) - Custom stable diffusion models
 
