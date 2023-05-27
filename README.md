@@ -38,6 +38,11 @@
 - [midjourney](https://www.midjourney.com/) - Stable diffusion on steroids
 - https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c
 
+## Stable Diffusion
+- [Google Doc of many resources](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/edit)
+- [catbird.ai](https://www.catbird.ai/)
+- [civit.ai](https://civitai.com/) - Custom stable diffusion models
+
 # Prompts
 
 - "I want you to act as an experienced XXX. I'm a novice and I want you to provide me a 30-day plan to learn the fundamentals of XXX. Include books, websites, videos, and exercises I should complete."
