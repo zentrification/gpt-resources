@@ -68,6 +68,7 @@
 
 # Resources
 - https://deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+- https://www.futuretools.io/
 - https://incidentdatabase.ai/
 - https://flowgpt.com/ - the best ChatGPT prompts
 - https://theresanaiforthat.com/
